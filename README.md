@@ -26,5 +26,6 @@ __"Путешествие по России"__ - это landing-page, посвя
   
   __3.Файловая структура по методолгоии БЭМ__
 ___  
-## III.Технологии:
-Ссылка на GitHub Pages: https://maxdee1489.github.io/russian-travel/index.html
+## III.Ссылка на GitHub Pages:
+ https://maxdee1489.github.io/russian-travel/index.html
+ 
