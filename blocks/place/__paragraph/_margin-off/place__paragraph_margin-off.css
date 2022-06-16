@@ -1,0 +1,9 @@
+.place__paragraph_margin-off {
+  margin: 0;
+}
+
+@media screen and (max-width: 568px) {
+  .place__paragraph_margin-off {
+    margin: 0 16px 0;
+  }
+}
