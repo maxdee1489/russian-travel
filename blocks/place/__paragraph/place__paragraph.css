@@ -6,6 +6,14 @@
   margin: 0 0 26px;
 }
 
+.place__paragraph:nth-child(2n+2) {
+  margin: 0;
+}
+
+.place__paragraph:last-of-type {
+  margin: 0;
+}
+
 @media screen and (max-width: 1230px) {
   .place__paragraph {
     max-width: 456px;
@@ -30,6 +38,13 @@
   .place__paragraph {
     max-width: 100%;
     margin: 0 16px 25px;
+  }
+  .place__paragraph:nth-child(2n+2) {
+    margin: 0 16px 0;
+  }
+
+  .place__paragraph:last-of-type {
+    margin: 0 16px 0;
   }
 }
 

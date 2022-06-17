@@ -1,0 +1,28 @@
+.header__lang-list {
+  margin: 0 18px 0 0;
+  padding: 0;
+  list-style-type: none;
+  min-width: 30px;
+  min-height: 28px;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+}
+
+.header__lang-list:nth-child(2n+2) {
+  margin: 0;
+}
+
+.header__lang-list:hover {
+  transform: scale(1.2);
+  transition: transform .4s ease-in;
+}
+
+@media screen and (max-width: 568px) {
+  .header__lang-list {
+    min-width: 22px;
+    min-height: 20px;
+    font-size: 18px;
+    line-height: 20px;
+  }
+}

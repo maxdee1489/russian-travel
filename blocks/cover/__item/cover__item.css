@@ -19,7 +19,7 @@
 .cover__item::before {
   content:'';
   background: #2a2c2f;
-  opacity: .4;
+  opacity: .3;
   position: absolute;
   top: 0;
   bottom: 0;
@@ -31,7 +31,7 @@
 }
 
 .cover__item:hover::before {
-  opacity: .7;
+  opacity: .8;
 }
 
 @media screen and (max-width: 1140px) {

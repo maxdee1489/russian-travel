@@ -1,15 +1,15 @@
-.content__section-photo {
+.content__photo-grid {
   margin: 0 48px 0;
 }
 
 @media screen and (max-width: 990px) {
-  .content__section-photo {
+  .content__photo-grid {
     margin: 0 24px 0;
   }
 }
 
 @media screen and (max-width: 400px) {
-  .content__section-photo {
+  .content__photo-grid {
     margin: 0 16px 0;
   }
 }
